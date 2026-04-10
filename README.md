@@ -17,7 +17,7 @@ An interactive quiz game built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 📸 Screenshots
-(add images here)
+![Quiz UI](./image.png)
 
 ## 📂 Project Structure
 - index.html
