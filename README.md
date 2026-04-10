@@ -20,9 +20,9 @@ An interactive quiz game built using HTML, CSS, and JavaScript.
 (add images here)
 
 ## 📂 Project Structure
-index.html
-style.css
-script.js
+- index.html
+- style.css
+- script.js
 
 ## 💡 Future Improvements
 - Timer for each question
